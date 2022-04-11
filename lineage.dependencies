@@ -12,6 +12,10 @@
     "repository":  "ibratabian17/vendor_xiaomi_sdm845-common-extras",
     "target_path": "vendor/xiaomi/sdm845-common-extras",
     "branch": "12"
+  },
+  {
+    "repository":  "ibratabian17/vendor_xiaomi_sdm845-common",
+    "target_path": "vendor/xiaomi/sdm845-common",
   }
 ]
 ]
