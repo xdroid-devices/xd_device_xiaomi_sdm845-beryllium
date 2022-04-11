@@ -6,5 +6,12 @@
   {
     "repository": "android_kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845"
+  },
+  {
+    "remote": "github",
+    "repository":  "ibratabian17/vendor_xiaomi_sdm845-common-extras",
+    "target_path": "vendor/xiaomi/sdm845-common-extras",
+    "branch": "12"
   }
+]
 ]
