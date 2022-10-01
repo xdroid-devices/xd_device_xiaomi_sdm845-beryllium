@@ -221,7 +221,7 @@ vendor/lib64/vendor.display.color@1.4.so|1396673668977af0a8afeaa64f891c3b356f958
 vendor/lib64/vendor.display.color@1.5.so|f1c12eb133698917385d48913358eaffd9a10879
 vendor/lib64/vendor.display.postproc@1.0.so|e56b66d744dd77bd87afbb30cab558acf15709fb
 
-git a# DPM
+# DPM
 product/bin/dpmd:system_ext/bin/dpmd
 product/etc/dpm/dpm.conf:system_ext/etc/dpm/dpm.conf
 product/etc/init/dpmd.rc:system_ext/etc/init/dpmd.rc

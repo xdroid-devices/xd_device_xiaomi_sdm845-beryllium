@@ -11,7 +11,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Setup dalvik vm configs
 $(call inherit-product, frameworks/native/build/phone-xhdpi-6144-dalvik-heap.mk)
 
-<<<<<<< HEAD
 # APN
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/etc/apns-conf.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/apns-conf.xml
@@ -20,8 +19,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     offload.o
     
-=======
->>>>>>> 4d9eb21... sdm845-common: Move back to AOSP BT stack
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
